@@ -1,0 +1,12 @@
+[package]
+authors = ["Zeyla Hellyer <zeyla@hellyer.dev>"]
+description = "Format text as a markdown blockquote, with smart soft and hard blockquote and line limits."
+edition = "2018"
+license = "ISC"
+name = "markdown-blockquote-formatter"
+publish = false
+rust-version = "1.61"
+version = "0.1.0"
+
+[dev-dependencies]
+static_assertions = { default-features = false, version = "1.1.0" }
